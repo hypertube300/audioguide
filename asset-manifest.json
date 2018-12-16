@@ -1,7 +1,7 @@
 {
   "main.css": "/audioguide/static/css/main.d70ffd79.chunk.css",
-  "main.js": "/audioguide/static/js/main.5097b434.chunk.js",
-  "main.js.map": "/audioguide/static/js/main.5097b434.chunk.js.map",
+  "main.js": "/audioguide/static/js/main.d9fafac6.chunk.js",
+  "main.js.map": "/audioguide/static/js/main.d9fafac6.chunk.js.map",
   "static/js/1.a28b52a8.chunk.js": "/audioguide/static/js/1.a28b52a8.chunk.js",
   "static/js/1.a28b52a8.chunk.js.map": "/audioguide/static/js/1.a28b52a8.chunk.js.map",
   "runtime~main.js": "/audioguide/static/js/runtime~main.4a942903.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/audioguide/static/media/logo.e359ad39.svg",
   "static/css/main.d70ffd79.chunk.css.map": "/audioguide/static/css/main.d70ffd79.chunk.css.map",
   "index.html": "/audioguide/index.html",
-  "precache-manifest.ea263e4b8a3c327f4a9760227ab04247.js": "/audioguide/precache-manifest.ea263e4b8a3c327f4a9760227ab04247.js",
+  "precache-manifest.4144af30e2ffe645f1b02c5e717ce380.js": "/audioguide/precache-manifest.4144af30e2ffe645f1b02c5e717ce380.js",
   "service-worker.js": "/audioguide/service-worker.js"
 }

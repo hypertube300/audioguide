@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/audioguide/static/js/runtime~main.4a942903.js"
   },
   {
-    "revision": "5097b43479112dbc1a2e",
-    "url": "/audioguide/static/js/main.5097b434.chunk.js"
+    "revision": "d9fafac603a1d212f164",
+    "url": "/audioguide/static/js/main.d9fafac6.chunk.js"
   },
   {
     "revision": "a28b52a853735dc531b5",
     "url": "/audioguide/static/js/1.a28b52a8.chunk.js"
   },
   {
-    "revision": "5097b43479112dbc1a2e",
+    "revision": "d9fafac603a1d212f164",
     "url": "/audioguide/static/css/main.d70ffd79.chunk.css"
   },
   {
-    "revision": "5a364c0eb10ecf29fc202f7812fc9a9e",
+    "revision": "adee6c08c26171451404e96d508bb98e",
     "url": "/audioguide/index.html"
   }
 ];
