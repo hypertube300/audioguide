@@ -14,14 +14,11 @@ function getRandomNumber(x) {
 
 
 const TRACKS = [
-  "https://soundcloud.com/gulistan-yalvac-1/maitre-gims-sapes-comme-jamais-ft-niska",
-  "https://soundcloud.com/bengale/je-danse-le-mia-iam-cover",
-  "https://soundcloud.com/milalin-1/romeo-et-juliette-les-rois-du-monde-live-1",
-  "https://soundcloud.com/justintimberlake/rock-your-body",
-  "https://soundcloud.com/julien-clerc-official/ma-pr-f-rence",
-  "https://soundcloud.com/henri-salvador/chanson-surrealiste-i",
-  "https://soundcloud.com/alain-bashung/osez-jos-phine-1",
-  "https://soundcloud.com/whatsacopyright/polo-pan-nana-2"
+  "https://soundcloud.com/user-362770434/audio0-2",
+  "https://soundcloud.com/user-362770434/audio1",
+  "https://soundcloud.com/user-362770434/audio2-1",
+  "https://soundcloud.com/user-362770434/audio3-1",
+  "https://soundcloud.com/user-362770434/audio4-1"
 ];
 
 const N_TRACKS = TRACKS.length;
@@ -64,7 +61,7 @@ class App extends React.Component {
           {
             TRACKS.map((url,index) =>
               <button className="App-audioguide-sample" onClick={()=>this.togglePlay(index)}>
-                 {index + 1}
+                 {index}
                </button>
             )}
           </div>

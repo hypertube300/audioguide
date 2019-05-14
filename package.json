@@ -1,5 +1,5 @@
 {
-  "name": "blindtest-spotify",
+  "name": "audioguide",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,7 @@
     "react-scripts": "^2.0.5",
     "react-sound": "^0.8.0"
   },
-  "homepage": "https://victorbrun.github.io/blindtest-spotify",
+  "homepage": "https://hypertube300.github.io/audioguide",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
